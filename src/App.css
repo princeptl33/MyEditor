@@ -1,0 +1,19 @@
+.CodeMirror{
+  height: 340px !important;
+  color: #fff;
+  background: #1d1e22 !important;
+}
+
+
+.btn{
+  cursor: pointer;
+}
+
+
+/* .CodeMirror-gutters{
+  background-color: aliceblue !important;
+}
+
+.CodeMirror-scrollbar{
+  background: #1f2126 ;
+} */
